@@ -7273,7 +7273,7 @@ body {
   font-size: 15px;
   line-height: 1.8;
   font-weight: 500;
-  color: #999999; }
+  color: #333333; }
   body.offcanvas {
     overflow-x: hidden; }
     body.offcanvas #colorlib-aside {
@@ -7298,10 +7298,10 @@ a {
   -webkit-transition: .3s all ease;
   -o-transition: .3s all ease;
   transition: .3s all ease;
-  color: #ccb78f; }
+  color: #EC9784; }
   a:hover, a:focus {
     text-decoration: none;
-    color: #ccb78f;
+    color: #EC9784;
     outline: none !important; }
 
 h1, h2, h3, h4, h5,
